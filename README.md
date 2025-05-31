@@ -5,8 +5,7 @@
 ![Model](https://img.shields.io/badge/Model-FinBERT-yellow.svg)
 ![Model](https://img.shields.io/badge/Model-OpenAI-yellow.svg)
 ![Tech](https://img.shields.io/badge/Technique-ZeroShot%20|%20FewShot%20|%20CoT-orange.svg)
-![Issues](https://img.shields.io/github/issues/your-username/your-repo.svg)
-![Stars](https://img.shields.io/github/stars/your-username/your-repo.svg)
+
 
 Prompt engineering is a core technique in working with modern large language models (LLMs) like GPT, LLaMA, Claude, and FinBERT. It involves crafting the right instructions (prompts) to guide the model toward generating the most accurate and contextually appropriate responses for a given task.
 
